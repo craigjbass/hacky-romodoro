@@ -1,0 +1,13 @@
+{
+  "name": "hacky-romodoro",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "start": "node ./bin/www"
+  },
+  "dependencies": {
+    "express": "~4.13.1",
+    "rethinkdb": "^2.1.1",
+    "socket.io": "^1.3.7"
+  }
+}
